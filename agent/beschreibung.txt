@@ -1,0 +1,1 @@
+Erstellt aus einer Webseiten-URL eine importfertige Google-Ads-Suchkampagne: Kampagne, Anzeigengruppe, RSA, 15–30 Keywords sowie Sitelinks, Callouts und Snippets auf Kontoebene. Ausgabe als Import-Blöcke für den Google Ads Editor.
